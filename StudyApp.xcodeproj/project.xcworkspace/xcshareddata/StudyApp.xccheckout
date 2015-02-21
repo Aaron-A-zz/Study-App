@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A9EB14B4-ABE8-4FCF-8655-21D22F1B9217</string>
+	<key>IDESourceControlProjectName</key>
+	<string>StudyApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D59665C2C10B6997E0DEA2C976C65EC70D988B12</key>
+		<string>https://github.com/Mav3r1ck/Study-App.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StudyApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D59665C2C10B6997E0DEA2C976C65EC70D988B12</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Mav3r1ck/Study-App.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D59665C2C10B6997E0DEA2C976C65EC70D988B12</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D59665C2C10B6997E0DEA2C976C65EC70D988B12</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StudyApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

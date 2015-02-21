@@ -21,7 +21,9 @@ class ViewController: UIViewController {
     super.viewDidLoad()
     // Do any additional setup after loading the view, typically from a nib.
     
-
+    
+    questionLabel.text = mainQuestion.askQuestion
+    answerLabel.text = mainQuestion.answer
     
     
   }
@@ -34,13 +36,21 @@ class ViewController: UIViewController {
 
   @IBAction func showAnswerButtonPressed(sender: AnyObject) {
     
-
+    answerLabel.hidden = false
+    showAnswerButton.hidden = true
+    nextQuestionButton.hidden = false
     
   }
   
   @IBAction func nextQuestionButtonPressed(sender: AnyObject) {
 
-
+    self.mainQuestion = nextQuestion()
+    self.questionLabel.text = mainQuestion.askQuestion
+    self.answerLabel.text = mainQuestion.answer
+    
+    answerLabel.hidden = true
+    showAnswerButton.hidden = false
+    nextQuestionButton.hidden = true
     
   }
   
